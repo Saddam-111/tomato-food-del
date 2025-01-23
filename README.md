@@ -11,18 +11,31 @@
 </h2>
 <ul>
  User Panel
+  <br>
  Admin Panel
+  <br>
  JWT Authentication
+  <br>
  Password Hashing with Bcrypt
+  <br>
  Stripe Payment Integration
+  <br>
  Login/Signup
+  <br>
  Logout
+  <br>
  Add to Cart
+  <br>
  Place Order
+  <br>
  Order Management
+  <br>
  Products Management
+  <br>
  Filter Food Products
+  <br>
  Login/Signup
+  <br>
  Authenticated APIs
  REST APIs
  Role-Based Identification
