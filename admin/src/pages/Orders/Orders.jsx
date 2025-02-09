@@ -7,7 +7,7 @@ import { useEffect } from "react";
 import { assets } from "../../assets/assets";
 
 
-const Orders = ({ url }) => {
+export const Orders = ({ url }) => {
   const [orders, setOrders] = useState([]);
 
   const fetchAllOrders = async () => {
